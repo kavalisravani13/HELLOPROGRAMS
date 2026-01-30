@@ -1,2 +1,6 @@
 #include<stdio.h>
-printf("Hello World");
+int main()
+{
+printf("Hello Devops from c");
+return 
+}
